@@ -1,5 +1,5 @@
 # Line Tracking Project Using OpenCV
-## Project overvwie 
+## Project Overview 
 This project demonstrates how to use OpenCV to track lines in a video feed captured from a webcam. Line tracking is a fundamental task in computer vision with applications in robotics, automated vehicles, and object detection systems. The implementation detects lines in real-time using edge detection and Hough Line Transform techniques.
 ## Features
 
